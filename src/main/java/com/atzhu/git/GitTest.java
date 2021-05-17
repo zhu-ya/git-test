@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello hadoop");
         System.out.println("hello scala");
+        System.out.println("hello spark");
     }
 }
